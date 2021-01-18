@@ -63,11 +63,11 @@ Main_div p {
     display: inline-block;
 }
 
-.movie_head1  i {
+.movie_head i {
     float: right;
 }
 
-.movie_text1 span {
+.movie_text span {
     color: orange;
 }
 
